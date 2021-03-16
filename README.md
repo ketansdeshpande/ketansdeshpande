@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-You can find me on [![LinkedIn][2.2]][2], or on [![Twitter][1.2]][1].
+You can find me on [![LinkedIn][1.1]][1], or on [![Twitter][1.2]][2].
 
 <!-- Icons -->
 
-[1.2]: https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/iconfinder_Rounded_Twitter5_svg_5282551.png (twitter)
-[2.2]: https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/iconfinder_Rounded_Linkedin2_svg_5282542.png (LinkedIn)
+[1.1]: https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/iconmonstr-twitter-1-16.png (twitter)
+[1.2]: https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/iconmonstr-linkedin-1-16.png (LinkedIn)
 
 <!-- Links to your social media accounts -->
 
