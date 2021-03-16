@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/web-design.png)
+![Header](https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/web-developer.png)
 <br /><br />
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/wave.gif" width="30px">
