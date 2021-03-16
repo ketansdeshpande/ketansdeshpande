@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketansdeshpande&show_icons=true)
 
-https://github-readme-stats.vercel.app/api/top-langs/?username=ketansdeshpande
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=ketansdeshpande)
 
 
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=Ketan&logoColor=white&color=2bbc8a)
