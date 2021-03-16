@@ -14,6 +14,9 @@ My name is Ketan Deshpande and I'm a web/software developer. I'm from India and 
 [2]: https://twitter.com/de_ketan
 
 ## 🔧 Technologies & Tools
+
+I have acquired following skills during my career:  
+
 ![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
@@ -32,7 +35,18 @@ My name is Ketan Deshpande and I'm a web/software developer. I'm from India and 
 <a href="https://github.com/KetanSDeshpande/KetanSDeshpande">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KetanSDeshpande&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ketan's GitHub Stats" />
 </a>
-
+  
 <a href="https://github.com/KetanSDeshpande/KetanSDeshpande">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetanSDeshpande&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
+
+
+<!--
+Sources:
+https://iconmonstr.com/
+https://shields.io/
+https://simpleicons.org/
+https://img.shields.io/badge/<heading for the badge - string>-<technology name - string>-informational?style=flat&logo=<logo name from simpleicons.org>&logoColor=white&color=2bbc8a
+https://github.com/anuraghazra/github-readme-stats
+https://github.com/MartinHeinz/MartinHeinz
+-->
