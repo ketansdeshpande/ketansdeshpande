@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn](https://www.iconsdb.com/icons/download/white/linkedin-16.png)][2].
+You can find me on [![LinkedIn][2.2]][2], or on [![Twitter][1.2]][1].
 
 <!-- Icons -->
 
