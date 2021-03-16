@@ -1,3 +1,6 @@
+https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/web%20developer.png
+<br /><br />
+
 ### Hello, folks! <img src="https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/wave.gif" width="30px">
 
 My name is Ketan Deshpande and I'm a web/software developer. I'm from India and currently a graduate student at Binghamton University. I have more than 5 years of experience in web development. You can find me on [![LinkedIn][1.1]][1], or on [![Twitter][1.2]][2].
