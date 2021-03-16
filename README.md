@@ -1,4 +1,4 @@
-https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/web%20developer.png
+![](https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/web%20developer.png)
 <br /><br />
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/wave.gif" width="30px">
