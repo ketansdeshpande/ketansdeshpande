@@ -35,7 +35,7 @@ I have acquired following skills during my career:
 <a href="https://github.com/KetanSDeshpande/KetanSDeshpande">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=KetanSDeshpande&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Ketan's GitHub Stats" />
 </a>
-<br />
+<br /><br />
 I have used a lot of technologies throughout my career. I use mostly:<br />
 <a href="https://github.com/KetanSDeshpande/KetanSDeshpande">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetanSDeshpande&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
