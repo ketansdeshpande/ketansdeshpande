@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/JavaScript/?username=ketansdeshpande&theme=dark" />
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ketansdeshpande)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ![](https://img.shields.io/badge/code-JavaScript-informational?style=flat&logo=Ketan&logoColor=white&color=2bbc8a)
