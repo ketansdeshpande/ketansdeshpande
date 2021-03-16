@@ -24,12 +24,12 @@ Here are some ideas to get you started:
 
 <!-- Actual text -->
 
-You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][3.2]][2].
+You can find me on [![Twitter][1.2]][1], or on [![LinkedIn][https://www.iconsdb.com/icons/download/white/linkedin-16.png]][2].
 
 <!-- Icons -->
 
 [1.2]: http://i.imgur.com/wWzX9uB.png (twitter)
-[3.2]: https://www.iconsdb.com/icons/download/white/linkedin-16.png (LinkedIn)
+[2.2]: https://www.iconsdb.com/icons/download/white/linkedin-16.png (LinkedIn)
 
 <!-- Links to your social media accounts -->
 
