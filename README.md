@@ -28,8 +28,8 @@ You can find me on [![LinkedIn][2.2]][2], or on [![Twitter][1.2]][1].
 
 <!-- Icons -->
 
-[1.2]: http://i.imgur.com/wWzX9uB.png (twitter)
-[2.2]: https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/linkedin-3-16.png (LinkedIn)
+[1.2]: https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/iconfinder_Rounded_Twitter5_svg_5282551.png (twitter)
+[2.2]: https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/iconfinder_Rounded_Linkedin2_svg_5282542.png (LinkedIn)
 
 <!-- Links to your social media accounts -->
 
