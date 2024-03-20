@@ -3,7 +3,7 @@
 
 ### Hello, folks! <img src="https://raw.githubusercontent.com/ketansdeshpande/ketansdeshpande/main/wave.gif" width="30px">
 
-My name is Ketan Deshpande and I'm a web/software developer. I'm from India and currently a graduate student at Binghamton University. I have more than 5 years of experience in web development. You can find me on [![LinkedIn][1.1]][1], or on [![Twitter][1.2]][2].
+My name is Ketan Deshpande and I'm a web/software developer. I'm from India and am working at Mindex Technologies, Inc. as a Software Engineer. I did my Master's in Computer Science from Binghamton University, NY. I have more than 7 years of experience in web development. You can find me on [![LinkedIn][1.1]][1], or on [![Twitter][1.2]][2].
 
 
 <!-- Icons -->
@@ -18,7 +18,7 @@ My name is Ketan Deshpande and I'm a web/software developer. I'm from India and 
 
 ## 🔧 Technologies & Tools
 
-I have acquired following skills during my career:  
+I have acquired the following skills during my career:
 
 ![](https://img.shields.io/badge/Web-HTML-informational?style=flat&logo=html5&logoColor=E34F26&color=2bbc8a)
 ![](https://img.shields.io/badge/Web-CSS-informational?style=flat&logo=css3&logoColor=1572B6&color=2bbc8a)
@@ -41,7 +41,7 @@ I have acquired following skills during my career:
 <br /><br />
 I have used a lot of technologies throughout my career. I use mostly:<br />
 <a href="https://github.com/KetanSDeshpande/KetanSDeshpande">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetanSDeshpande&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KetanSDeshpande&hide=php&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&include_all_commits=true&langs_count=5" />
 </a>
 
 
